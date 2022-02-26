@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter written from the Right Honorable the Earle of Bedford, to a lord of the House of Peeres, of all the remarkable passages about Sherborn Castle. Being a full relation of the great overthrow given to the cavalleers within a mile of Eivill: with the resolution of the Earle of Bedford, to die in the cause. Desired by the Lords in Parliament, that this letter be forthwith printed and published.</title>
+            <author>Bedford, William Russell, Duke of, 1613-1700.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76319</idno>
+            <idno type="STC">Wing B1672</idno>
+            <idno type="STC">Thomason E117_6</idno>
+            <idno type="STC">ESTC R17834</idno>
+            <idno type="EEBO-CITATION">99860279</idno>
+            <idno type="PROQUEST">99860279</idno>
+            <idno type="VID">156065</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76319)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156065)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 21:E117[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter written from the Right Honorable the Earle of Bedford, to a lord of the House of Peeres, of all the remarkable passages about Sherborn Castle. Being a full relation of the great overthrow given to the cavalleers within a mile of Eivill: with the resolution of the Earle of Bedford, to die in the cause. Desired by the Lords in Parliament, that this letter be forthwith printed and published.</title>
+                  <author>Bedford, William Russell, Duke of, 1613-1700.</author>
+                  <author>England and Wales. Parliament. House of Lords.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Hugh Perry,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Septemb. 15. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sherborne (Dorset, England) --  History --  17th century --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156065:1"/>
+            <pb facs="tcp:156065:1" rendition="simple:additions"/>
+            <p>A LETTER WRITTEN From the Right Honorable the Earle of <hi>Bedford,</hi> to a Lord of the Houſe of PEERES, Of all the remarkable paſſages about <hi>Sherborn</hi> Caſtle.</p>
+            <p>BEING A full Relation of the great over<g ref="char:EOLhyphen"/>throw given to the Cavalleers within a mile of <hi>Eivill:</hi> With the Reſolution of the Earle of <hi>Bedford,</hi> to die in the cauſe.</p>
+            <p>Deſired by the Lords in Parliament, that this Letter be forthwith printed and publiſhed.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Hugh Perry,</hi> Septemb. 15. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:156065:2"/>
+            <pb facs="tcp:156065:2"/>
+            <head>A LETTER WRITTEN From the Right Honourable the Earle of BEDFORD, to a Lord of the Houſe of PEERES.</head>
+            <opener>
+               <salute>My Noble Lord,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>His perplexed buſineſſe, I am now ingaged in, hath given me ſo much trouble, that I have not had ſo much recreation as to write to my friends, and in particular unto your Lordſhip, who I account to be the chiefeſt of that number. To give your Lord<g ref="char:EOLhyphen"/>ſhip a relation of all our proceedings ſince our com<g ref="char:EOLhyphen"/>ming into theſe parts, were too long; but in ſhort my Lord, It is my misfortune to be ingaged in a buſi<g ref="char:EOLhyphen"/>neſſe that the world thinks ſo eaſie to be effected,
+<pb facs="tcp:156065:3"/>but indeed is the moſt difficulteſt that is now upon the Stage. The Caſtle of <hi>Sherborne,</hi> your Lordſhip knowes very well, was thought to be (at <hi>London</hi>) a place of no ſtrength, a ruinate thing, and upon the ſhot of the leaſt peece of Ordnance, it would be rendered. Truly my Lord, it is ſo farre from that, that when we came thither, we found it to be a place of as much ſtrength, as is in <hi>England;</hi> and that thoſe Ordnance we brought were no more able to better it then a phillip. The men we brought with us were all Trained-bands, ſo unskilfull, from the Collonell to the loweſt Officer, and with<g ref="char:EOLhyphen"/>all ſo aſtoniſhed, when they heard the Bullets whiſtle about their eares, that we were forced to hazzard our ſelves very much to make them ſtand, and all to little purpoſe; and when the Cannon began to play upon them, they runne as if the di<g ref="char:EOLhyphen"/>vell had been in them; that, and the hardneſſe of lying in the Field two nights made them goe a<g ref="char:EOLhyphen"/>way ſo faſt, that of three thouſand I brought with me, there was left not above foureteene hundred, which if I had ſtayed but two nights longer, would have beene gone likewiſe; I was forced to ſet Horſe round about the Quarter to keepe them from running away which were left; and if I had ſtayed longer, our men running away ſo faſt, I ſhould have runne the hazzard to have been beaten out of our Quarters, the enemy being a thouſand Horſe and Foot in the Caſtle, which would not only have bin a diſhonour to us, but a loſſe, nay more a deſtruction to the cauſe: therefore upon theſe and
+<pb facs="tcp:156065:3"/>many other reaſons, we by the unanimous con<g ref="char:EOLhyphen"/>ſent of all the Company, did thinke it fit to march to ſome place hard by, and to ſtay there untill we had received (from <hi>London</hi>) ſome Regiments of Horſe and Foot, with Cannon and other things which we have writ for, and of neceſſity muſt be had, and then by Gods aſ<g ref="char:EOLhyphen"/>ſiſtance, I hope to doe the worke, or elſe to pe<g ref="char:EOLhyphen"/>riſh in it.</p>
+            <p>On Tueſday laſt being the ſixth of September I marched away to <hi>Eivell,</hi> foure miles from <hi>Sherborne,</hi> intending to ſtay a day there to refreſh my Troopes. The next day being Wedneſday about two of the clocke, word was brought me, that forty Cavalleers were on the top of the Hill, whereupon I ſent out Scouts to ſee-what num<g ref="char:EOLhyphen"/>ber of them was there, who immediately brought me word that there was about a thouſand Horſe and Foot comming to aſſault the Town; ſtraight thereupon I made all the haſt I could to get thoſe Troopes I had there in readineſſe, which were very few, (many of thoſe foureteene hun<g ref="char:EOLhyphen"/>dred left with me, being now gone away) Collo<g ref="char:EOLhyphen"/>nell <hi>Eſſex,</hi> Maſter <hi>Hollis,</hi> and my ſelfe, went to ſtop the ſeverall paſſages, which were very many, and indeed the moſt that ever I ſaw in any Town, all which wee ſtopped with Carts, Waggons, and Ordnance, what we could not guard with men, expecting the Enemy to give an aſſault upon divers quarters; This was ſcarce done, but the Enemy came downe the Hill; the Town
+<pb facs="tcp:156065:4"/>being in a great bottome, where we had placed a troope of Horſe and ſome Muſqueteers; They gave fire upon one another, for an hower and more very warmely, their Horſe ſtanding ſtill upon the Hill. Captaine <hi>Aſcough</hi> moſt gallantly charged up againſt them, and broke cleane thorow their firſt troops, and diſordered them, ſo that he charged againe their other Troopes, killing many, and put them in ſuch confuſion, that they begun to ſhog a good pace backe, Then ano<g ref="char:EOLhyphen"/>ther Troope of Horſe commanded by Captaine <hi>Thompſon</hi> came up to them, whereupon the Cavaleers began to run away in much diſorder, theſe two Troopes purſuing them ſo long as they could ſee, doing execution upon them; and if we had but two houres of day light more, we had cut off all thoſe five Troopes (All the con<g ref="char:EOLhyphen"/>ſiderable men of quality being there, ſave on<g ref="char:EOLhyphen"/>ly my Lord <hi>Marqueſſe,</hi> and my Lord <hi>Seymore</hi>) In the meane time, our other Horſe fought ſo bravely with their Foote below the Hill, that they broke in upon them, and killed them like Doggs, they leaving their Armes and running into Furres to hide themſelves. Serjeant major <hi>Banfield</hi> who commanded their foote, was taken priſoner, Lievtenant Collonell <hi>Lunsford</hi> was for<g ref="char:EOLhyphen"/>ced to runne for it, ſome ſay he is hurt, but I am ſ<gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> he did not come into <hi>Sherborne</hi> untill the nex<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> day, having hid himſelfe with Coll. <hi>Sandes</hi> in the <gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>rres all night, ſome 40 or 50 of their men were ſlaine upon the place, and 16 taken
+<pb facs="tcp:156065:4"/>priſoners, and of three or 400 Foote that they brought with them, we ſcattered them ſo much, that there returned not ten men home to the Caſtle that night. We found them next morning in every Buſh. We thinke there were ſome perſons of condition ſlaine, becauſe I was aſſured, that night with Lanthornes, they tooke away many dead dodies. Captaine <hi>Huſſy,</hi> and Captaine <hi>Hawes</hi> are ſlaine for certaine, they keepe it very cloſe and ſay there is none killed; if it had not been a very darke night, we had done very great execution upon them, ſo deſiring to haſten the worke that I may have the happineſſe to wait upon you, I reſt</p>
+            <closer>
+               <dateline>From <hi>Dorcheſter</hi> 
+                  <date>this 12. of <hi>Sept.</hi>
+                  </date>
+               </dateline>
+               <signed>Your moſt affectionate ſervant to bee commanded <hi>BEDFORD.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
